@@ -1,0 +1,477 @@
+{
+    "co": [
+        "Controlling",
+        ["controlling", "financial"],
+        "https://github.com/umbiliko/um-co"
+    ],
+    "co_abc": [
+        "Activity-Based Controlling",
+        ["activity", "controlling", "financial"],
+        "https://github.com/umbiliko/um-co-abc"
+    ],
+    "co_om": [
+        "Overhead Cost Control",
+        ["control", "controlling", "cost", "financial", "overhead"],
+        "https://github.com/umbiliko/um-co-om"
+    ],
+    "co_pa": [
+        "Sales and Profitability Analysis",
+        ["analysis", "controlling", "financial", "profitability", "sales"],
+        "https://github.com/umbiliko/um-co-pa"
+    ],
+    "co_pc": [
+        "Product Cost Controlling",
+        ["controlling", "cost", "financial", "product"],
+        "https://github.com/umbiliko/um-co-pc"
+    ],
+    "ec": [
+        "Enterprise Controlling",
+        ["controlling", "enterprise", "financial"],
+        "https://github.com/umbiliko/um-ec"
+    ],
+    "ec_eis": [
+        "Executive Information System",
+        ["controlling", "executive", "financial", "information", "system"],
+        "https://github.com/umbiliko/um-ec-eis"
+    ],
+    "ec_mc": [
+        "Management Consolidation",
+        ["controlling", "consolidation", "financial", "management"],
+        "https://github.com/umbiliko/um-ec-mc"
+    ],
+    "ec_pca": [
+        "Profit Center Accounting",
+        ["accounting", "center", "controlling", "financial", "profit"],
+        "https://github.com/umbiliko/um-ec-pca"
+    ],
+    "fi": [
+        "Financial Accounting",
+        ["accounting", "financial"],
+        "https://github.com/umbiliko/um-fi"
+    ],
+    "fi_aa": [
+        "Asset Accounting",
+        ["asset", "accounting", "financial"],
+        "https://github.com/umbiliko/um-fi-aa"
+    ],
+    "fi_ap": [
+        "Account Payable",
+        ["account", "accounting", "financial", "payable"],
+        "https://github.com/umbiliko/um-fi-ap"
+    ],
+    "fi_ar": [
+        "Account Receivable",
+        ["account", "accounting", "financial", "receivable"],
+        "https://github.com/umbiliko/um-fi-ar"
+    ],
+    "fi_gl": [
+        "General Ledger Accounting",
+        ["accounting", "financial", "general", "ledger"],
+        "https://github.com/umbiliko/um-fi-gl"
+    ],
+    "fi_lc": [
+        "Consolidation",
+        ["accounting", "consolidation", "financial"],
+        "https://github.com/umbiliko/um-fi-lc"
+    ],
+    "fi_sl": [
+        "Special Purpose Ledger",
+        ["accounting", "financial", "ledger", "ledger"],
+        "https://github.com/umbiliko/um-fi-sl"
+    ],
+    "im": [
+        "Capital Inverstment Management",
+        ["accounting", "capital", "financial", "investment", "management"],
+        "https://github.com/umbiliko/um-im"
+    ],
+    "im_fa": [
+        "Tangible Fixed Assets",
+        ["accounting", "assets", "financial", "fiexed", "tangible"],
+        "https://github.com/umbiliko/um-im-fa"
+    ],
+    "lo": [
+        "General Logistics",
+        ["general", "logistics"],
+        "https://github.com/umbiliko/um-lo"
+    ],
+    "lo_ech": [
+        "Engineering Change Management",
+        ["change", "engineering", "general", "logistics", "management"],
+        "https://github.com/umbiliko/um-lo-ech"
+    ],
+    "lo_ehs": [
+        "Environment, Health, and Safety",
+        ["environment", "general", "health", "logistics", "safety"],
+        "https://github.com/umbiliko/um-lo-ehs"
+    ],
+    "lo_lis": [
+        "Logistics Information System",
+        ["general", "information", "logistics", "system"],
+        "https://github.com/umbiliko/um-lo-lis"
+    ],
+    "lo_md": [
+        "Logistics Master Data",
+        ["data", "general", "logistics", "master"],
+        "https://github.com/umbiliko/um-lo-md"
+    ],
+    "lo_pr": [
+        "Forecast",
+        "https://github.com/umbiliko/um-lo-pr",
+        ["logistics"]
+    ],
+    "lo_vc": [
+        "Variant Configuration",
+        ["configuration", "general", "logistics", "variant"],
+        "https://github.com/umbiliko/um-lo-vc"
+    ],
+    "mm": [
+        "Material Management",
+        ["logistics", "management", "material"],
+        "https://github.com/umbiliko/um-mm"
+    ],
+    "mm_cbp": [
+        "Consumption-Based Planning",
+        ["consumption", "logistics", "management", "material", "planning"],
+        "https://github.com/umbiliko/um-mm-cbp"
+    ],
+    "mm_edi": [
+        "Electronic Data Interchange",
+        ["data", "electronic", "interchange", "logistics", "management", "material"],
+        "https://github.com/umbiliko/um-mm-edi"
+    ],
+    "mm_im": [
+        "Invetory Management",
+        ["inventory", "logistics", "management", "material"],
+        "https://github.com/umbiliko/um-mm-im"
+    ],
+    "mm_is": [
+        "Information System",
+        ["information", "logistics", "management", "material", "system"],
+        "https://github.com/umbiliko/um-mm-is"
+    ],
+    "mm_iv": [
+        "Invoice Verification",
+        ["invoice", "logistics", "management", "material", "verification"],
+        "https://github.com/umbiliko/um-mm-iv"
+    ],
+    "mm_pur": [
+        "Purchasing",
+        ["logistics", "management", "material", "purchasing"],
+        "https://github.com/umbiliko/um-mm-pur"
+    ],
+    "mm_wm": [
+        "Warehouse Management",
+        ["logistics", "management", "material", "warehouse"],
+        "https://github.com/umbiliko/um-mm-wm"
+    ],
+    "pa": [
+        "Personnel Administration",
+        ["administration", "hr", "human", "personnel"],
+        "https://github.com/umbiliko/um-pa"
+    ],
+    "pa_app": [
+        "Applicant Management",
+        ["applicant", "administration", "hr", "human", "management", "personnel"],
+        "https://github.com/umbiliko/um-pa-app"
+    ],
+    "pa_ben": [
+        "Benefits",
+        ["administration", "benefits", "hr", "human", "personnel"],
+        "https://github.com/umbiliko/um-pa-ben"
+    ],
+    "pa_emp": [
+        "Employee Management",
+        ["administration", "employee", "hr", "human", "management", "personnel"],
+        "https://github.com/umbiliko/um-pa-emp"
+    ],
+    "pa_inw": [
+        "Incentive Wages",
+        ["administration", "hr", "human", "incentive", "personnel", "wages"],
+        "https://github.com/umbiliko/um-pa-inw"
+    ],
+    "pa_pay": [
+        "Payroll",
+        ["administration", "hr", "human", "payroll", "personnel"],
+        "https://github.com/umbiliko/um-pa-pay"
+    ],
+    "pa_tim": [
+        "Time Management",
+        ["administration", "hr", "human", "management", "personnel", "time"],
+        "https://github.com/umbiliko/um-pa-tim"
+    ],
+    "pa_trv": [
+        "Travel Expenses",
+        ["administration", "expenses", "hr", "human", "personnel", "travel"],
+        "https://github.com/umbiliko/um-pa-trv"
+    ],
+    "pd": [
+        "Personnel Development",
+        ["development", "hr", "human", "personnel"],
+        "https://github.com/umbiliko/um-pd"
+    ],
+    "pd_om": [
+        "Organizational Management",
+        ["development", "hr", "human", "management", "organizational", "personnel"],
+        "https://github.com/umbiliko/um-pd-om"
+    ],
+    "pd_rpl": [
+        "Room Reservation Planning",
+        ["development", "hr", "human", "personnel", "reservation", "room", "planning"],
+        "https://github.com/umbiliko/um-pd-rpl"
+    ],
+    "pd_scm": [
+        "Seminar and Convention Management",
+        ["convention", "development", "hr", "human", "management", "personnel", "seminar"],
+        "https://github.com/umbiliko/um-pd-scm"
+    ],
+    "pd_wfp": [
+        "Workforce Planning",
+        ["development", "hr", "human", "personnel", "planning", "workforce"],
+        "https://github.com/umbiliko/um-pd-wfp"
+    ],
+    "pm": [
+        "Plant Maintenance",
+        ["logistics", "maintenance", "plant"],
+        "https://github.com/umbiliko/um-pm"
+    ],
+    "pm_eqm": [
+        "Equipment and Technical Objects",
+        ["equipment", "logistics", "maintenance", "objects", "plant", "technical"],
+        "https://github.com/umbiliko/um-pm-eqm"
+    ],
+    "pm_is": [
+        "Information System",
+        ["information", "logistics", "maintenance", "plant", "system"],
+        "https://github.com/umbiliko/um-pm-is"
+    ],
+    "pm_prm": [
+        "Preventive Maintenance",
+        ["logistics", "maintenance", "maintenance", "plant", "preventive"],
+        "https://github.com/umbiliko/um-pm-prm"
+    ],
+    "pm_pro": [
+        "Maintenance Projects",
+        ["logistics", "maintenance", "plant", "projects"],
+        "https://github.com/umbiliko/um-pm-pro"
+    ],
+    "pm_sma": [
+        "Service Management",
+        ["logistics", "maintenance", "management", "plant", "service"],
+        "https://github.com/umbiliko/um-pm-sma"
+    ],
+    "pm_woc": [
+        "Maintenance Order Management",
+        ["logistics", "maintenance", "management", "order", "plant"],
+        "https://github.com/umbiliko/um-pm-woc"
+    ],
+    "pp": [
+        "Production Planning",
+        ["logistics", "planning", "production"],
+        "https://github.com/umbiliko/um-pp"
+    ],
+    "pp_ato": [
+        "Assembly to Orders",
+        ["assembly", "logistics", "orders", "planning", "production"],
+        "https://github.com/umbiliko/um-pp-ato"
+    ],
+    "pp_bd": [
+        "Basic Data",
+        ["basic", "data", "logistics", "planning", "production"],
+        "https://github.com/umbiliko/um-pp-db"
+    ],
+    "pp_crp": [
+        "Capacity Requirement Planning",
+        ["capacity", "logistics", "planning", "production", "requirement"],
+        "https://github.com/umbiliko/um-pp-crp"
+    ],
+    "pp_is": [
+        "Information System",
+        ["information", "logistics", "planning", "production", "system"],
+        "https://github.com/umbiliko/um-pp-is"
+    ],
+    "pp_kab": [
+        "Kanban/Just-In-Time",
+        ["just", "kanban", "logistics", "planning", "production", "time"],
+        "https://github.com/umbiliko/um-pp-kab"
+    ],
+    "pp_mp": [
+        "Master Planning",
+        ["logistics", "master", "planning", "production"],
+        "https://github.com/umbiliko/um-pp-mp"
+    ],
+    "pp_mrp": [
+        "Material Requirement Planning",
+        ["logistics", "material", "planning", "production", "requirement"],
+        "https://github.com/umbiliko/um-pp-mrp"
+    ],
+    "pp_pdc": [
+        "Plant Data Collection",
+        ["collection", "data", "logistics", "planning", "plant", "production"],
+        "https://github.com/umbiliko/um-pp-pdc"
+    ],
+    "pp_pi": [
+        "Production Planning for Process Industries",
+        ["industries", "logistics", "planning", "production", "process"],
+        "https://github.com/umbiliko/um-pp-pi"
+    ],
+    "pp_rem": [
+        "Respective Manufacturing",
+        ["logistics", "manufacturing", "planning", "production", "respective"],
+        "https://github.com/umbiliko/um-pp-rem"
+    ],
+    "pp_sfc": [
+        "Production Orders",
+        ["logistics", "planning", "orders", "production"],
+        "https://github.com/umbiliko/um-pp-sfc"
+    ],
+    "pp_sop": [
+        "Sales and Operations Planning",
+        ["logistics", "operations", "planning", "production", "sales"],
+        "https://github.com/umbiliko/um-pp-sop"
+    ],
+    "ps": [
+        "Project System",
+        ["logistics", "project", "system"],
+        "https://github.com/umbiliko/um-ps"
+    ],
+    "ps_app": [
+        "Project Budgeting",
+        ["budgeting", "logistics", "project", "system"],
+        "https://github.com/umbiliko/um-ps-app"
+    ],
+    "ps_bd": [
+        "Basic Data",
+        ["basic", "data", "logistics", "project", "system"],
+        "https://github.com/umbiliko/um-ps-bd"
+    ],
+    "ps_exe": [
+        "Project Execution/Integration",
+        ["execution", "integration", "logistics", "project", "system"],
+        "https://github.com/umbiliko/um-ps-exe"
+    ],
+    "ps_is": [
+        "Information System",
+        ["information", "logistics", "project", "system"],
+        "https://github.com/umbiliko/um-ps-is"
+    ],
+    "ps_ops": [
+        "Operative System",
+        ["logistics", "operative", "project", "system"],
+        "https://github.com/umbiliko/um-ps-ops"
+    ],
+    "ps_pln": [
+        "Project Planning",
+        ["logistics", "project", "planning", "system"],
+        "https://github.com/umbiliko/um-ps-pln"
+    ],
+    "qm": [
+        "Quality Management",
+        ["logistics", "management", "quality"],
+        "https://github.com/umbiliko/um-qm-ca"
+    ],
+    "qm_ca": [
+        "Quality Certificates",
+        ["certificates", "logistics", "management", "quality"],
+        "https://github.com/umbiliko/um-qm-ca"
+    ],
+    "qm_im": [
+        "Inspection Processing",
+        ["inspection", "logistics", "management", "processing", "quality"],
+        "https://github.com/umbiliko/um-qm-im"
+    ],
+    "qm_pt": [
+        "Planning Tools",
+        ["logistics", "management", "planning", "quality", "tools"],
+        "https://github.com/umbiliko/um-qm-pt"
+    ],
+    "qm_qc": [
+        "Quality Control",
+        ["control", "logistics", "management", "quality"],
+        "https://github.com/umbiliko/um-qm-qc"
+    ],
+    "qm_qn": [
+        "Quality Notifications",
+        ["logistics", "management", "notifications", "quality"],
+        "https://github.com/umbiliko/um-qm-qn"
+    ],
+    "sd": [
+        "Sales and Distribution",
+        ["distribution", "logistics", "sales"],
+        "https://github.com/umbiliko/um-sd"
+    ],
+    "sd_bil": [
+        "Billing",
+        ["billing", "distribution", "logistics", "sales"],
+        "https://github.com/umbiliko/um-sd-bil"
+    ],
+    "sd_cas": [
+        "Sales Support",
+        ["distribution", "logistics", "sales", "support"],
+        "https://github.com/umbiliko/um-sd-cas"
+    ],
+    "sd_edi": [
+        "Electronic Data Interchange",
+        ["data", "distribution", "electronic", "interchange", "logistics", "sales"],
+        "https://github.com/umbiliko/um-sd-edi"
+    ],
+    "sd_ft": [
+        "Foreign Trade",
+        ["distribution", "foreign", "logistics", "sales", "trade"],
+        "https://github.com/umbiliko/um-sd-ft"
+    ],
+    "sd_gf": [
+        "General Sales",
+        ["distribution", "general", "logistics", "sales"],
+        "https://github.com/umbiliko/um-sd-gf"
+    ],
+    "sd_md": [
+        "Master Data",
+        ["data", "distribution", "logistics", "master", "sales"],
+        "https://github.com/umbiliko/um-sd-md"
+    ],
+    "sd_shp": [
+        "Shipping",
+        ["distribution", "logistics", "sales", "shipping"],
+        "https://github.com/umbiliko/um-sd-shp"
+    ],
+    "sd_sis": [
+        "Sales Information System",
+        ["distribution", "information", "logistics", "sales", "system"],
+        "https://github.com/umbiliko/um-sd-sis"
+    ],
+    "sd_sls": [
+        "Sales",
+        ["distribution", "logistics", "sales"],
+        "https://github.com/umbiliko/um-sd-sls"
+    ],
+    "sd_tr": [
+        "Transportation",
+        ["distribution", "logistics", "sales", "transportation"],
+        "https://github.com/umbiliko/um-sd-tr"
+    ],
+    "tr": [
+        "Treasury",
+        ["financial", "treasury"],
+        "https://github.com/umbiliko/um-tr"
+    ],
+    "tr_cm": [
+        "Cash Management",
+        ["cash", "financial", "management", "treasury"],
+        "https://github.com/umbiliko/um-tr-cm"
+    ],
+    "tr_fm": [
+        "Founds Management",
+        ["financial", "founds", "management", "treasury"],
+        "https://github.com/umbiliko/um-tr-fm"
+    ],
+    "tr_tm": [
+        "Treasury Management",
+        ["financial", "management", "treasury"],
+        "https://github.com/umbiliko/um-tr-tm"
+    ],
+    "tr_mrm": [
+        "Market Risk Management",
+        ["financial", "management", "market", "risk", "treasury"],
+        "https://github.com/umbiliko/um-tr-mrm"
+    ]
+}
